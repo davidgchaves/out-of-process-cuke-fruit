@@ -1,0 +1,7 @@
+capybara-*
+balance
+messages/
+db/*.db
+
+.bundle/
+bin/
